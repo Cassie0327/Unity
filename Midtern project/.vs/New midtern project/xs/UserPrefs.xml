@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/BombController.cs">
+    <Files>
+      <File FileName="Assets/Script/Move.cs" Line="23" Column="3" />
+      <File FileName="Assets/Script/BombDrop.cs" Line="1" Column="17" />
+      <File FileName="Assets/Script/NewGame.cs" Line="9" Column="21" />
+      <File FileName="Assets/Script/ExplosionController.cs" Line="34" Column="5" />
+      <File FileName="Assets/Script/WormController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/BombController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

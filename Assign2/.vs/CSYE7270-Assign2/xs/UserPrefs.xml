@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{AC98BD97-A64A-9F19-CC74-869C129B4A5E}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/LevelController.cs">
+    <Files>
+      <File FileName="Assets/Scenes/PlatformController.cs" Line="24" Column="1" />
+      <File FileName="Assets/Scenes/PlayerController.cs" Line="21" Column="6" />
+      <File FileName="Assets/Scenes/CameraFollow.cs" Line="17" Column="32" />
+      <File FileName="Assets/Scenes/LevelController.cs" Line="7" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
